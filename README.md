@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wolfie2812
-- 👀 I’m interested in learning making apps and websites 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning making apps and bigger projects when im done lesrning 
+- 🌱 I’m currently learning python and HTML css
+- 💞️ I’m looking to collaborate on learning together maybe
 - 📫 How to reach me kumar.nirav2805@gmail.com
 
 <!---
